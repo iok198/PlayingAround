@@ -12,3 +12,4 @@ This is some final text that I'm adding
 Line of text 1
 Line of text 2
 Line of text 3
+Line of text 4
