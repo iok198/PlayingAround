@@ -18,3 +18,4 @@ Line of text 5
 Languages:
 Javascript
 Python
+C++
