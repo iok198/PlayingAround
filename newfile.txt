@@ -21,3 +21,5 @@ Python
 C++
 Ruby
 Swift
+
+And the father, who the one person that was never there but controlled everything you did, he was bob
